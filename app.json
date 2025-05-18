@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "953e8ed0-2c7e-485b-99e3-757cdf20ff25"
+      }
+    },
+    "owner": "kevinb11",
+    "ios": {
+      "bundleIdentifier": "com.kevinb11.myapp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
