@@ -42,7 +42,7 @@
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.6.0",
     "expo": "^53.0.9",
-    "expo-dev-client": "^5.1.8",
+    "expo-dev-client": "^6.0.0",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.509.0",
     "next": "15.3.2",
